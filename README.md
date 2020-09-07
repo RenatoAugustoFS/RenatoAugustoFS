@@ -1,6 +1,6 @@
-<a target="_blank" href="https://www.linkedin.com/in/renato-augusto-php//">
+<!--<a target="_blank" href="https://www.linkedin.com/in/renato-augusto-php//">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>-->
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5521967218047">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
