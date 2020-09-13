@@ -14,7 +14,7 @@
 
 ---- 
 
-Hi, I'm Renato Augusto, but you can call me **Rê**. 
+Hi, I'm Renato Augusto, but you can call me **Rê**...
 
 I'm a Back-end PHP Developer from Brazil 💚, **26 years old** :grin: and **2 years of coding** 🧐. 
 
