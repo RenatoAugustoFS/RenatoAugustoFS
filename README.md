@@ -8,7 +8,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Renato-Developer)](https://github.com/Renato-Developer)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RenatoAugustoFS)](https://github.com/RenatoAugustoFS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-augusto-php/)](https://www.linkedin.com/in/renato-augusto-php/)
 
 
@@ -44,4 +44,4 @@ I'm a Back-end PHP Developer from Brazil 💚, **26 years old** :grin: and **2 y
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
-![Renato Augusto GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renato-Developer&show_icons=true)
+![Renato Augusto GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenatoAugustoFS&show_icons=true)
