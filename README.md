@@ -23,7 +23,6 @@ I'm a Back-end PHP Developer from Brazil 💚, **27 years old** :grin: and **3 y
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * :heavy_check_mark: Learning backend technologies.
 * :alien: Also surfing on artificial intelligence stuff.
-
 ----
 
 **Languages and Tools:**  
