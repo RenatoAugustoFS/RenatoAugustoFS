@@ -16,7 +16,7 @@
 
 Hi, I'm Renato Augusto, but you can call me **Rê**.
 
-I'm a Back-end PHP Developer from Brazil 💚, **27 years old** :grin: and **3 years of coding** 🧐. 
+I'm a Software Engineer Developer from Brazil 💚, **31 years old** :grin: and **11 years of coding** 🧐. 
 
 **Computer lover** :computer:, **an aspiring software engineer** :octocat: and a good **video game player** 🎮 and fan of **Metal** :metal:.
 
