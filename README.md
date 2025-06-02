@@ -1,13 +1,6 @@
 <!--<a target="_blank" href="https://www.linkedin.com/in/RenatoAugustoFS//">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>-->
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5521967218047">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:renatoaugusto.ads@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RenatoAugustoFS)](https://github.com/RenatoAugustoFS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-augusto-php/)](https://www.linkedin.com/in/RenatoAugustoFS/)
 
